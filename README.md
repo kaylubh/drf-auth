@@ -1,10 +1,10 @@
-# LAB - Class 32
+# LAB - Class 33
 
-## Project: Django REST Framework Permissions & Docker Postgresql
+## Project: Authentication & Production Server
 
 ### Author: [Caleb Hemphill](https://github.com/kaylubh)
 
-Extends [Django REST Framework & Docker](https://github.com/kaylubh/drf-api) project to add API permissions. Deployed in a local Docker container using Postgresql.
+Extends [Django REST Framework & Docker](https://github.com/kaylubh/drf-api) and [Django REST Framework Permissions & Docker Postgresql](https://github.com/kaylubh/drf-api-permissions-postgres) projects to add API authentication. Deployed in a local Docker container with Postgresql.
 
 ## Setup
 
